@@ -1,0 +1,12 @@
+{
+  "name": "url-auto-linker",
+  "version": "1.0.0",
+  "description": "url-auto-linker, which detects URLs and email addresses in a block of text and converts them to HTML &lt;a> tags.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
